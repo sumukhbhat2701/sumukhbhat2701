@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumukhbhat2701
 - 👀 I’m interested in Systems and Core Computing.
 - 🌱 I’m currently learning programming in Go.
-- 💞️ I’m looking to collaborate on fun C, C++ projects or any cool core CS projects.
 - 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sumukhbhatbhat2701@gmail.com), [Linkedin](https://www.linkedin.com/in/sumukh-bhat-60b4431b2/)
 
 <!---
