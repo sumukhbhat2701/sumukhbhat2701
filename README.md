@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumukhbhat2701
 - 👀 I’m interested in Systems and Core Computing.
-- 🌱 I’m currently learning programming in Go.
+- 🌱 Proficient in Golang. I’m currently learning programming in Rust.
 - 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sumukhbhatbhat2701@gmail.com), [Linkedin](https://www.linkedin.com/in/sumukh-bhat/)
 
 <!---
